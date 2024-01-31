@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+ *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;        
+    }
+    .btt{
+        width:10%;        
+		padding:15px;
+    }
+    .bdr{       
+        border: 4px solid blue;        
+    }
